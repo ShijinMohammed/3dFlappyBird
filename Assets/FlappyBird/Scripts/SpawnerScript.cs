@@ -6,8 +6,8 @@ public class SpawnerScript : MonoBehaviour
 {
     public GameObject[] ObstacleList;
     private FlappyControlScript FCScript;
+
     bool initialSpawn = true;
-    
     // Start is called before the first frame update
     void Start()
     {
